@@ -7,8 +7,8 @@
 */
 
 #include <stdlib.h>
-#include "../include/list.h"
-
+//#include "../include/list.h"
+#include "list.h"
 
 #define safe_free(ptr)\
 	do {\

@@ -7,7 +7,8 @@
 */
 
 
-#include "../include/queue.h"
+//#include "../include/queue.h"
+#include "queue.h"
 
 /**
 * queue_create - creates queue
