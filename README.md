@@ -1,4 +1,4 @@
-<p align="center"><img src="/logo/logo.png"></p>
+<img src="/logo/logo.png"></p>
 
 
 # Tyche
